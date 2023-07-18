@@ -1,0 +1,17 @@
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\bin\Debug\SinemaBiletOtomasyonu.exe.config
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\bin\Debug\SinemaBiletOtomasyonu.exe
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\bin\Debug\SinemaBiletOtomasyonu.pdb
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.FormFilmEkleme.resources
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.FormAnaSayfa.resources
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.FormSeansEkle.resources
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.Properties.Resources.resources
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.csproj.GenerateResource.cache
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.exe
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.pdb
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.FrmSalonEkle.resources
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.FormSatisListeleme.resources
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.SeansListele.resources
+C:\Users\fidan\Desktop\otel\SinemaBiletOtomasyonu\SinemaBiletOtomasyonu\obj\Debug\SinemaBiletOtomasyonu.FormSeansListele.resources
